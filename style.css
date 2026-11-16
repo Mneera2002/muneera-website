@@ -1,0 +1,98 @@
+body {
+    background-color: #fff0f5;
+    color: #503344;
+    font-family: Arial;
+    margin: 0;
+}
+
+nav {
+    background-color: #d987a5;
+    padding: 20px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #ffe0eb;
+    text-decoration: underline;
+}
+
+div {
+    background-color: white;
+    width: 80%;
+    margin: 25px auto;
+    padding: 25px;
+    border: 1px solid #e8b6c9;
+    border-radius: 12px;
+}
+
+h1 {
+    color: #bd6485;
+    text-align: center;
+    font-size: 35px;
+}
+
+h2 {
+    color: #bd6485;
+}
+
+h3 {
+    color: #d987a5;
+}
+
+p {
+    font-size: 16px;
+}
+
+span {
+    color: #bd6485;
+    font-weight: bold;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 3px solid #d987a5;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #d987a5;
+    padding: 12px;
+    text-align: center;
+}
+
+th {
+    background-color: #f7dce7;
+}
+
+input, textarea {
+    width: 95%;
+    padding: 10px;
+    margin: 8px 0;
+    border: 1px solid #d987a5;
+    border-radius: 8px;
+}
+
+button {
+    background-color: #d987a5;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 8px;
+}
+
+button:hover {
+    background-color: #bd6485;
+}
